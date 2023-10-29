@@ -11,37 +11,37 @@
 
 
 
-<img src="Acc/acc_ratio_0.png" alt="$\\theta = 0º$" width="400">
+<img src="Acc/acc_ratio_0.png" alt="$\\theta = 0º$" width="300">
 
-<img src="Acc/acc_ratio_10.png" alt="$\\theta = 10º$" width="400">
-
-<br>
-<br>
-
-<img src="Acc/acc_ratio_20.png" alt="$\\theta = 20º$" width="400">
-
-<img src="Acc/acc_ratio_30.png" alt="$\\theta = 30º$" width="400">
+<img src="Acc/acc_ratio_10.png" alt="$\\theta = 10º$" width="300">
 
 <br>
 <br>
 
-<img src="Acc/acc_ratio_40.png" alt="$\\theta = 40º$" width="400">
+<img src="Acc/acc_ratio_20.png" alt="$\\theta = 20º$" width="300">
 
-<img src="Acc/acc_ratio_50.png" alt="$\\theta = 50º$" width="400">
-
-<br>
-<br>
-
-<img src="Acc/acc_ratio_60.png" alt="$\\theta = 60º$" width="400">
-
-<img src="Acc/acc_ratio_70.png" alt="$\\theta = 70º$" width="400">
+<img src="Acc/acc_ratio_30.png" alt="$\\theta = 30º$" width="300">
 
 <br>
 <br>
 
-<img src="Acc/acc_ratio_80.png" alt="$\\theta = 80º$" width="400">
+<img src="Acc/acc_ratio_40.png" alt="$\\theta = 40º$" width="300">
 
-<img src="Acc/acc_ratio_90.png" alt="$\\theta = 90º$" width="400">
+<img src="Acc/acc_ratio_50.png" alt="$\\theta = 50º$" width="300">
+
+<br>
+<br>
+
+<img src="Acc/acc_ratio_60.png" alt="$\\theta = 60º$" width="300">
+
+<img src="Acc/acc_ratio_70.png" alt="$\\theta = 70º$" width="300">
+
+<br>
+<br>
+
+<img src="Acc/acc_ratio_80.png" alt="$\\theta = 80º$" width="300">
+
+<img src="Acc/acc_ratio_90.png" alt="$\\theta = 90º$" width="300">
 
 
 ## Specific Heat, Entropy and MSSF
