@@ -47,61 +47,50 @@
 ## Specific Heat, Entropy and MSSF
 
 
-### $$\theta = 0^o$$
 <img src="Cv/theta00.png" alt="$\\theta = 0º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 10^o$$
 <img src="Cv/theta10.png" alt="$\\theta = 10º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 20^o$$
 <img src="Cv/theta20.png" alt="$\\theta = 20º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 30^o$$
 <img src="Cv/theta30.png" alt="$\\theta = 30º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 40^o$$
 <img src="Cv/theta40.png" alt="$\\theta = 40º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 50^o$$
 <img src="Cv/theta50.png" alt="$\\theta = 50º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 60^o$$
 <img src="Cv/theta60.png" alt="$\\theta = 60º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 70^o$$
 <img src="Cv/theta70.png" alt="$\\theta = 70º$" width="900">
 
 <br>
 <br>
 
-### $$\theta = 80^o$$
 <img src="Cv/theta80.png" alt="$\\theta = 80º$" width="900">
 
 <br>
 <br>
-
-### $$\theta = 90^o$$
 
 <img src="Cv/theta90.png" alt="$\\theta = 90º$" width="900">
 
