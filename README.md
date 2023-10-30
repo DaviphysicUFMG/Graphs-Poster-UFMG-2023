@@ -1,7 +1,4 @@
 
-
-<!-- .slide: data-background-color="white" -->
-
 # Graphs Poster UFMG 2023
 
 ## Poster PDF
@@ -10,15 +7,10 @@
 
 [XI BRAZILIAN MEETING ON SIMULATIONAL PHYSICS](https://www.fisica.ufmg.br/bmsp/)
 
-
-<!-- .slide: data-background-color="white" -->
-
-## Model Animation
+# Model Animation
 
 ![Model Animation](anim/animate.gif)
 
-
-<!-- .slide: data-background-color="white" -->
 
 ## Worms' Acceptance Rate
 
@@ -36,9 +28,6 @@
 <img src="Acc/acc_ratio_30.png" alt="$\\theta = 30º$" width="300">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Acc/acc_ratio_40.png" alt="$\\theta = 40º$" width="300">
@@ -53,17 +42,11 @@
 <img src="Acc/acc_ratio_70.png" alt="$\\theta = 70º$" width="300">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Acc/acc_ratio_80.png" alt="$\\theta = 80º$" width="300">
 
 <img src="Acc/acc_ratio_90.png" alt="$\\theta = 90º$" width="300">
-
-
-<!-- .slide: data-background-color="white" -->
 
 
 ## Specific Heat, Entropy and MSSF
@@ -72,73 +55,46 @@
 <img src="Cv/theta00.png" alt="$\\theta = 0º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta10.png" alt="$\\theta = 10º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta20.png" alt="$\\theta = 20º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta30.png" alt="$\\theta = 30º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta40.png" alt="$\\theta = 40º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta50.png" alt="$\\theta = 50º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta60.png" alt="$\\theta = 60º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta70.png" alt="$\\theta = 70º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta80.png" alt="$\\theta = 80º$" width="900">
 
 <br>
-
-<!-- .slide: data-background-color="white" -->
-
 <br>
 
 <img src="Cv/theta90.png" alt="$\\theta = 90º$" width="900">
@@ -146,17 +102,10 @@
 <br>
 <br>
 
-
-<!-- .slide: data-background-color="white" -->
-
-
 ## Charge Population
 
 ### Kagome Charges
 <img src="Charges/tipos_kago.png" alt="$\\theta = 0º$" width="900" >
-
-<!-- .slide: data-background-color="white" -->
-
 
 ### Triangular Charges
 <img src="Charges/tipos_triang.png" alt="$\\theta = 0º$" width="900" >
@@ -167,70 +116,49 @@
 <br>
 <br>
 
-<!-- .slide: data-background-color="white" -->
-
-
 <img src="Charges/charge_theta_0.png" alt="$\\theta = 0º$" width="900">
 
 <br>
 <br>
-
-<!-- .slide: data-background-color="white" -->
 
 <img src="Charges/charge_theta_10.png" alt="$\\theta = 10º$" width="900">
 
 <br>
 <br>
 
-<!-- .slide: data-background-color="white" -->
-
 <img src="Charges/charge_theta_20.png" alt="$\\theta = 20º$" width="900">
 
 <br>
 <br>
-
-<!-- .slide: data-background-color="white" -->
 
 <img src="Charges/charge_theta_30.png" alt="$\\theta = 30º$" width="900">
 
 <br>
 <br>
 
-<!-- .slide: data-background-color="white" -->
-
 <img src="Charges/charge_theta_40.png" alt="$\\theta = 40º$" width="900">
 
 <br>
 <br>
-
-<!-- .slide: data-background-color="white" -->
 
 <img src="Charges/charge_theta_50.png" alt="$\\theta = 50º$" width="900">
 
 <br>
 <br>
 
-<!-- .slide: data-background-color="white" -->
-
 <img src="Charges/charge_theta_60.png" alt="$\\theta = 60º$" width="900">
 
 <br>
 <br>
-
-<!-- .slide: data-background-color="white" -->
 
 <img src="Charges/charge_theta_70.png" alt="$\\theta = 70º$" width="900">
 
 <br>
 <br>
 
-<!-- .slide: data-background-color="white" -->
-
 <img src="Charges/charge_theta_80.png" alt="$\\theta = 80º$" width="900">
 
 <br>
 <br>
-
-<!-- .slide: data-background-color="white" -->
 
 <img src="Charges/charge_theta_90.png" alt="$\\theta = 90º$" width="900">
