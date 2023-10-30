@@ -11,6 +11,9 @@
 
 ![Model Animation](anim/animate.gif)
 
+We used a flatspin simulator to generate only the configuation's images.
+
+[flatspin: A large-scale artificial spin ice simulator](https://link.aps.org/doi/10.1103/PhysRevB.106.064408)
 
 ## Worms' Acceptance Rate
 
